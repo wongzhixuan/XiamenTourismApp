@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/relative1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/gradient"
+            android:paddingBottom="30dp">
+
+            <RelativeLayout
+                android:id="@+id/UserPicBorder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="60dp"
+                android:background="@drawable/circular_border">
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/profile_image"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:layout_marginStart="9dp"
+                    android:layout_marginTop="9dp"
+                    android:layout_marginEnd="9dp"
+                    android:layout_marginBottom="9dp"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/circle_profile"
+                    android:padding="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/sample_profile"
+                    app:shapeAppearanceOverlay="@style/circular"
+                    >
+
+                </com.google.android.material.imageview.ShapeableImageView>
+                <ImageButton
+                    android:id="@+id/btn_changePic"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:layout_marginStart="9dp"
+                    android:layout_marginTop="9dp"
+                    android:layout_marginEnd="9dp"
+                    android:layout_marginBottom="9dp"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/camera_button"
+                    android:src="@drawable/ic_path_1">
+                </ImageButton>
+
+            </RelativeLayout>
+            <ImageButton
+                android:id="@+id/btn_close"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/ic_close"
+                android:background="@android:color/transparent"
+                />
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp">
+
+
+            <EditText
+                android:id="@+id/etName_profile"
+                android:layout_width="300dp"
+                android:layout_height="48dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/focus_select"
+                android:drawableStart="@drawable/ic_person_selected"
+                android:drawablePadding="10dp"
+                android:drawableTint="@color/navy"
+                android:ems="10"
+                android:hint="@string/username"
+                android:inputType="textPersonName"
+                android:text=""
+                android:textColorHint="@color/light_grey" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp">
+
+            <EditText
+                android:id="@+id/etEmail_profile"
+                android:layout_width="300dp"
+                android:layout_height="48dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/focus_select"
+                android:drawableStart="@drawable/ic_mail"
+                android:drawablePadding="10dp"
+                android:drawableTint="@color/navy"
+                android:ems="10"
+                android:enabled="false"
+                android:inputType="none"
+                android:text=""
+                android:textColorHint="@color/light_grey" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp">
+
+            <Button
+                android:id="@+id/btn_saveprofile"
+                android:layout_width="233dp"
+                android:layout_height="55dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/oval_rect"
+                android:fontFamily="@font/montserrat_bold"
+                android:text="Save"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</FrameLayout>

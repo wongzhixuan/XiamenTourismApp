@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/btn_content.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/camera_button.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/change_password_icon.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/circular_border.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/edit_icon.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/edit_selector.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/edit_text_focus.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/edit_text_selected.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/explore_selector.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/favourite_icon.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/favourite_icon_with_bg.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/favourite_selector.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/focus_select.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/gradient.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/home_selector.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic__food_selected.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_arrow_next.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_baseline_wifi_24.xml" value="0.23703703703703705" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_clock.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_close.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_direction.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_edit.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_favourite.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_home.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_home_selected.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_lock.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_lock_withcolor.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_love_outlined.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_mail.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_parking.xml" value="0.23703703703703705" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_path_1.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_person.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_person_selected.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_placetostay.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_placetostay_selected.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_previous_arrow.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_search_selected.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_star.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_star_blue.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_ticket.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/ic_ticket_selected.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/next_arrow.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/outline_oval_rect.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/oval_rect.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/oval_rect_edit_text.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/oval_white.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/profile_selector.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/selected_color.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/selector_explore.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/selector_food.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/selector_places.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/drawable/stroke_color.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/activity_navigation.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/cardview.xml" value="0.4" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/cardview_vertical.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/edit_profile_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/explore_content_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/food_content_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/fragment_explore.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/fragment_favourite.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/fragment_food.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/fragment_places.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/layout_explore.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/placesrostay_content_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/placetostay_content_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/layout/slider_item.xml" value="0.1328125" />
+        <entry key="..\:/Users/User/Desktop/202109/Mobile app/Assignment/Final Assignment/XiamenTourismApp/app/src/main/res/menu/bottom_navigation.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

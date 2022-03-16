@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/ic_placetostay"
+        android:state_checked="false"
+        android:color="@color/light_grey"
+
+        >
+        <color android:color="@color/light_grey"/>
+    </item>
+    <item
+        android:state_checked="true"
+        android:drawable="@drawable/ic_placetostay_selected"
+        />
+
+</selector>

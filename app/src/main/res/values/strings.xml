@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Xiamen Tourism App</string>
+    <string name="xiamen_tips">Xiamen Tips</string>
+    <string name="xiamen_tips_logo">Xiamen Tips Logo</string>
+    <string name="sign_up_logo">Sign Up Logo</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="username">Username</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_existing_account">Don\'t have an existing account?</string>
+    <string name="login">LOGIN</string>
+    <string name="login_to_your_account">Login to Your Account</string>
+</resources>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/frame_container">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="40dp">
+
+            <RelativeLayout
+                android:id="@+id/UserPicBorder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_centerVertical="true"
+                android:background="@drawable/circular_border">
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/userImage"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginStart="9dp"
+                    android:layout_marginTop="9dp"
+                    android:layout_marginEnd="9dp"
+                    android:layout_marginBottom="9dp"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/circle_profile"
+                    android:padding="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/sample_profile"
+                    app:shapeAppearanceOverlay="@style/circular"
+                    ></com.google.android.material.imageview.ShapeableImageView>
+
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@+id/UserPicBorder"
+                >
+            <TextView
+                android:id="@+id/tv_username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/username"
+                android:textSize="18sp"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/navy"
+                android:layout_marginStart="15dp"
+                android:layout_centerVertical="true"/>
+            <TextView
+                android:id="@+id/tv_email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="example@email.com"
+                android:textSize="14sp"
+                android:fontFamily="@font/montserrat"
+                android:textColor="@color/middle_grey"
+                android:layout_below="@+id/tv_username"
+                android:layout_marginStart="15dp"
+                android:layout_centerVertical="true"/>
+            </RelativeLayout>
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/btn_edit_profile"
+                android:layout_width="350dp"
+                android:layout_height="55dp"
+                android:layout_centerHorizontal="true"
+                android:background="@android:color/transparent"
+                android:drawableStart="@drawable/edit_icon"
+                android:drawableEnd="@drawable/next_arrow"
+                android:fontFamily="@font/montserrat_bold"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:text="Edit Profile"
+                android:textAlignment="center"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp">
+            <Button
+                android:id="@+id/btn_change_password"
+                android:layout_width="350dp"
+                android:layout_height="55dp"
+                android:layout_centerHorizontal="true"
+                android:background="@android:color/transparent"
+                android:drawableStart="@drawable/change_password_icon"
+                android:fontFamily="@font/montserrat_bold"
+                android:text="Edit PAssword"
+                android:textSize="18sp"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:drawableEnd="@drawable/next_arrow"
+                android:textAlignment="center"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp">
+
+            <Button
+                android:id="@+id/logout"
+                android:layout_width="300dp"
+                android:layout_height="55dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/outline_oval_rect"
+                android:drawableStart="@drawable/ic_logout"
+                android:drawableTint="@color/navy"
+                android:fontFamily="@font/montserrat_bold"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:text="Log Out"
+                android:textAlignment="center"
+                android:textSize="18sp" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp">
+
+            <Button
+                android:id="@+id/delete_acc"
+                android:layout_width="300dp"
+                android:layout_height="55dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/oval_rect"
+                android:drawableStart="@drawable/ic_delete"
+                android:drawableTint="@color/white"
+                android:fontFamily="@font/montserrat_bold"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:text="Delete Account"
+                android:textColor="@color/white"
+                android:textAlignment="center"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+</FrameLayout>

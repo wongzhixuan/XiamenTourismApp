@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="240dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardview_explore"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="8dp"
+    app:cardBackgroundColor="@color/white"
+    android:layout_marginStart="20dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginBottom="8dp"
+    app:strokeWidth="1dp"
+    app:strokeColor="@drawable/stroke_color"
+    android:checkable="true"
+    android:clickable="true"
+    android:focusable="true" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+            <!-- Media -->
+            <ImageView
+                android:id="@+id/card_image"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/sample_profile" />
+            <!--<ImageButton
+                android:id="@+id/btn_addFavourite"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/oval_white"
+                android:layout_alignParentEnd="true"
+                android:layout_margin="5dp"
+                android:elevation="@dimen/material_emphasis_medium"
+                android:src="@drawable/ic_love_outlined"
+                />-->
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <!-- Title, secondary and supporting text -->
+            <TextView
+                android:id="@+id/card_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_bold"
+                android:text="Title"
+                android:textAppearance="?attr/textAppearanceHeadline6"
+                android:textColor="@color/navy"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/card_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/roboto"
+                android:text="Description"
+                android:textAppearance="?attr/textAppearanceBody2"
+                android:textColor="?android:attr/textColorSecondary"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/card_rating"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="2dp"
+                android:layout_marginTop="8dp"
+                android:text="5"
+                android:textSize="10dp"
+                app:drawableStartCompat="@drawable/ic_star"
+                android:fontFamily="@font/marko_one"/>
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

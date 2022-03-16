@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/marko_one</item>
+        <item>@font/montserrat</item>
+        <item>@font/montserrat_bold</item>
+        <item>@font/roboto</item>
+        <item>@font/roboto_bold</item>
+        <item>@font/yellowtail</item>
+    </array>
+</resources>

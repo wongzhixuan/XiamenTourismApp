@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_explore"
+        android:icon="@drawable/selector_explore"
+        android:title="Explore"/>
+    <item
+        android:id="@+id/nav_placetostay"
+        android:icon="@drawable/selector_places"
+        android:title="Places to Stay"/>
+    <item
+        android:id="@+id/nav_food"
+        android:icon="@drawable/selector_food"
+        android:title="Food"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile_selector"
+        android:title="Profile"/>
+</menu>
